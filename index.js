@@ -4,20 +4,20 @@ var customerName = 'bob';
 function upperCaseCustomerName() {
   return customerName = customerName.toUpperCase();
 }
-//
+
 // function changeLeastFavoriteCustomer(){
 //   leastFavoriteCustomer = 'sour fred'
 // }
 
 
 function setBestCustomer(){
-  bestCustomer = 'not bob'
+  bestCustomer = 'not bob';
 }
 
-// function overWriteBestCustomer(newFavorite){
-//   bestCustomer = newFavorite
-// }
-//
+function overWriteBestCustomer(newFavorite){
+  bestCustomer = newFavorite;
+}
+
 // function congratulateCustomer(){
 //   return `congrats ${favoriteCustomer}`
 // }
