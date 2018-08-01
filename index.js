@@ -23,6 +23,6 @@ function congratulateCustomer(){
 }
 
 function attemptTwoFavoriteCustomers(){
-    const favoriteCustomer = 'bar';
-    const favoriteCustomer = 'not bar';
+    let favoriteCustomer = 'bar';
+    let favoriteCustomer = 'not bar';
 }
